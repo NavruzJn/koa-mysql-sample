@@ -97,13 +97,7 @@ stream/
 .vscode
 .idea
 
-src/**/*.js
-src/**/*.js.map
-
 docker-compose.override.yml
 
 static/avatars/upload/*.jpg
 static/videos
-
-# Client
-client/
