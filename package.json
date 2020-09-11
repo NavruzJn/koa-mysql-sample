@@ -49,7 +49,7 @@
     "markdown-it": "^8.0.0",
     "mongodb": "^3.0.0",
     "mysql2": "^1.0.0",
-    "node-fetch": "^2.0.0",
+    "node-fetch": "^2.6.1",
     "nodejs-info": "^1.0.0",
     "nodemailer": "^6.0.0",
     "scrypt-kdf": "^2.0.0",
